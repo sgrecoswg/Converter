@@ -6287,11 +6287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\WebApplication1\\Converter.WebAPI.csproj",
+      "projectUniqueName": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\Converter\\Converter.WebAPI.csproj",
       "projectName": "Converter.WebAPI",
-      "projectPath": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\WebApplication1\\Converter.WebAPI.csproj",
+      "projectPath": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\Converter\\Converter.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Galloway\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\Converter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

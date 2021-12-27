@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter.WebAPI", "WebApplication1\Converter.WebAPI.csproj", "{E3B8F295-3C81-4765-852C-3D45FC1ECC4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter.WebAPI", "Converter\Converter.WebAPI.csproj", "{E3B8F295-3C81-4765-852C-3D45FC1ECC4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

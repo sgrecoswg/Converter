@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swoZsyr/4AjbVI0pl/CjrPz/u8+8iVJswz7zDvyobKssvy6+DyVljlGGPqAoHi1eYuyxmiekNvO/Y3k0xlVyLg==",
+  "dgSpecHash": "xE7BTuGaA5sj/3uT8eu4BlP+VwM8tEuxWuh0i3I23IbT1wthAZOKMlyRhbmy9TEj0ktCjRfFGv/iN6CDypsSkw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\WebApplication1\\Converter.WebAPI.csproj",
+  "projectFilePath": "C:\\Dev\\Web\\Converter\\SesibleProgramming.Converter\\Converter\\Converter.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Galloway\\.nuget\\packages\\epplus\\5.8.4\\epplus.5.8.4.nupkg.sha512",
     "C:\\Users\\Galloway\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
