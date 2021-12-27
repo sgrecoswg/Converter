@@ -1,0 +1,15 @@
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\Converter.WebAPI.exe
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\Converter.WebAPI.AssemblyInfoInputs.cache
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\Converter.WebAPI.AssemblyInfo.cs
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\Converter.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Converter.WebAPI.StaticWebAssets.Manifest.cache
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Converter.WebAPI.StaticWebAssets.xml
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\Converter.WebAPI.csprojAssemblyReference.cache
+C:\Dev\Web\Converter\SesibleProgramming.Converter\WebApplication1\obj\Debug\netcoreapp3.1\Converter.WebAPI.csproj.CopyComplete
